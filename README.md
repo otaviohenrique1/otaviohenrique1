@@ -37,5 +37,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/otavio-henrique-de-lima-e-silva-94076ba1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div>
-  <a href = "https://otaviohls.vercel.app/">Site pessoal</a>
+  <a href = "https://otaviohls.vercel.app/" target="_blank">Site pessoal</a>
 </div>
